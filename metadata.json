@@ -1,0 +1,5 @@
+{
+  "name": "MedDiag Expert System",
+  "description": "An AI-based medical diagnosis expert system that uses rule-based reasoning to suggest possible conditions based on user symptoms.",
+  "requestFramePermissions": []
+}
